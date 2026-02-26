@@ -19,18 +19,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
-
-## 📂 المشاريع الأكاديمية
-
-*   **مشروع ويب متكامل باستخدام HTML وCSS:** صفحة واجهة مستخدم مصممة بعناية مع ملف توثيق مرتب.
-    *   [رابط المشروع على GitHub](https://github.com/waleedshamhan2050-sys/web-project)
-
-*   **مشروع قواعد بيانات SQL مع استعلامات معقدة:** تصميم قاعدة بيانات وتنفيذ استعلامات متقدمة.
-    *   [رابط المشروع على GitHub](https://github.com/waleedshamhan2050-sys/sql-database-project)
-
-*   **تطبيق C# لإدارة المستخدمين وتسجيل الأخطاء:** تطبيق مكتبي احترافي.
-    *   [رابط المشروع على GitHub](https://github.com/waleedshamhan2050-sys/user-management-app)
-
 ---
 
 ## 🎯 الأهداف الحالية
@@ -43,7 +31,7 @@
 
 ## 📫 للتواصل
 
-*   **البريد الإلكتروني:** [ضع بريدك هنا]
+*   **البريد الإلكتروني:** 
 *   **LinkedIn:** [https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white]
 
 ---
