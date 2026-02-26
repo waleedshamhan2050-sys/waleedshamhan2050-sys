@@ -31,8 +31,8 @@
 
 ## 📫 للتواصل
 
-*   **البريد الإلكتروني:** 
-*   **LinkedIn:** [https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white]
+*   **البريد الإلكتروني:**waleed.shamhan2050@gmail.com
+*   رقم الهاتف 771030768
 
 ---
 
