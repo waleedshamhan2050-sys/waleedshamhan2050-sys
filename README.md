@@ -47,6 +47,21 @@
 
 ---
 
+## 🏅 الشهادات والاعتمادات
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/cisco-it-support-badge.jpg" width="120" /><br />
+      <b>IT Customer Support Basics</b><br />
+      <sub>Cisco Networking Academy</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🎯 الأهداف الحالية
 
 - تطوير مهاراتي في مجال الذكاء الاصطناعي وتطبيقاته
@@ -93,3 +108,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
