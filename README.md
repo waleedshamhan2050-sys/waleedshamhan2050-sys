@@ -68,8 +68,8 @@
       <img src="https://img.shields.io/badge/Participant-✓-blue?style=flat-square" />
     </td>
     <td align="center" width="250">
-      <a href="https://www.credly.com/badges/6890338a-986c-4861-9892-779838708892/public_url">
-        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/cisco-it-support-badge.jpg" width="150" />
+      <a href="https://www.credly.com/badges/1f0bb937-1c8e-4531-b5ed-aa1fba75e6e7/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/it-support-badge.png" width="150" />
       </a><br />
       <b>IT Customer Support Basics</b><br />
       <sub>Cisco</sub><br />
