@@ -47,14 +47,32 @@
 
 ---
 
-## 🏅 الشهادات والاعتمادات
+## 🏅 الشهادات والاعتمادات (Cisco Networking Academy)
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/cisco-it-support-badge.jpg" width="120" /><br />
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/c207c86a-8a04-4efb-919d-08097f05112c/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/ai-badge.png" width="150" />
+      </a><br />
+      <b>Introduction to Modern AI</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/a276334b-4064-400c-80ea-23705a97b302/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/learnathon-badge.png" width="150" />
+      </a><br />
+      <b>Learn-A-Thon 2026</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Participant-✓-blue?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/6890338a-986c-4861-9892-779838708892/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/cisco-it-support-badge.jpg" width="150" />
+      </a><br />
       <b>IT Customer Support Basics</b><br />
-      <sub>Cisco Networking Academy</sub><br />
+      <sub>Cisco</sub><br />
       <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
     </td>
   </tr>
@@ -108,4 +126,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
