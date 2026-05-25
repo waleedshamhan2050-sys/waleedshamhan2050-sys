@@ -13,11 +13,25 @@
 ## 🏆 التميز الأكاديمي
 
 <p align="center">
-  <img src="academic_excellence_certificate.jpg" width="600" alt="درع التميز العلمي" /><br>
-  <b>درع التميز العلمي - المركز الثاني</b><br>
-  تخصص تكنولوجيا المعلومات (IT) | المستوى الثاني | العام الجامعي 2025 / 2026 م<br>
-  <i>كلية المنار الجامعية للعلوم والتكنولوجيا</i>
+  <b>كلية المنار الجامعية للعلوم والتكنولوجيا</b>
 </p>
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="academic_excellence_certificate.jpg" width="400" alt="درع التميز العلمي - المركز الثاني" /><br>
+        <b>المركز الثاني</b><br>
+        <sub>المستوى الثاني | 2025 / 2026 م</sub>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <img src="academic_excellence_3rd.png" width="400" alt="درع التميز العلمي - المركز الثالث" /><br>
+        <b>المركز الثالث</b><br>
+        <sub>المستوى الأول | 2024 / 2025 م</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
