@@ -1,44 +1,33 @@
-# 👋 Hello, I'm Waleed Shamhan! | أهلاً، أنا وليد شمهان
+<h1 align="center">👋 مرحبًا، أنا وليد شمهان</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Information%20Technology-Student-blue?style=for-the-badge&logo=micro-soft-academic" alt="IT Student" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-Enthusiast-orange?style=for-the-badge&logo=github" alt="Software Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+%7C+Developer+%7C+AI+Enthusiast;C%23+%7C+SQL+%7C+Web+Development;Cyber+Security+Passionate" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me | نبذة عني
-A passionate **Information Technology** specialist and developer with a strong academic background and hands-on experience in multiple programming paradigms. I enjoy building efficient solutions, from complex algorithms to user-centric mobile and web applications.
-
-متخصص في **تكنولوجيا المعلومات** ومطور شغوف، أمتلك خلفية أكاديمية قوية وخبرة عملية في نماذج برمجية متعددة. أستمتع ببناء حلول فعالة، بدءاً من الخوارزميات المعقدة وصولاً إلى تطبيقات الهاتف والويب التي تركز على المستخدم.
-
----
-
-### 🛠️ Technical Skills | المهارات التقنية
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | `C++`, `C#`, `Java`, `Dart (Flutter)`, `JavaScript`, `TypeScript`, `Python` |
-| **Core Computer Science** | `Data Structures`, `Algorithms`, `OOP (Object-Oriented Programming)` |
-| **Web Development** | `Advanced Web Design`, `HTML5`, `CSS3`, `React`, `Vite` |
-| **Mobile Development** | `Flutter (Android/iOS)`, `Java for Android` |
-| **Databases** | `SQL Server`, `MySQL`, `Database Design & Management` |
-| **IT Management** | `IT Service Management (ITSM)`, `Equipment Tracking Systems` |
+<p align="center">
+طالب شغوف في قسم تكنولوجيا المعلومات، أركز بشكل خاص على <b>البرمجة</b> و<b>قواعد البيانات</b>. أمتلك خبرة عملية في تطوير المشاريع باستخدام لغات مثل <b>C#</b> و<b>SQL</b>، بالإضافة إلى بناء واجهات المستخدم التفاعلية وأدوات الذكاء الاصطناعي.
+</p>
 
 ---
 
-### 🏆 Academic Achievements | التميز الأكاديمي
+## 🏆 التميز الأكاديمي
+
+<p align="center">
+  <b>كلية المنار الجامعية للعلوم والتكنولوجيا</b>
+</p>
 
 <div align="center">
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center">
-        <b>2nd Place - Academic Excellence</b><br>
-        <img src="academic_excellence_2nd.jpg" width="350" alt="2nd Place Certificate" /><br>
-        <sub>Al-Manar University College - IT Department</sub>
+      <td align="center" style="padding: 20px;">
+        <img src="academic_excellence_certificate.jpg" width="400" alt="درع التميز العلمي - المركز الثاني" /><br>
+        <b>المركز الثاني</b><br>
+        <sub>المستوى الثاني | 2025 / 2026 م</sub>
       </td>
-      <td align="center">
-        <b>3rd Place - Academic Excellence</b><br>
-        <img src="enhanced_certificate_3rd.png" width="350" alt="3rd Place Certificate" /><br>
-        <sub>Al-Manar University College - IT Department</sub>
+      <td align="center" style="padding: 20px;">
+        <img src="academic_excellence_3rd.png" width="400" alt="درع التميز العلمي - المركز الثالث" /><br>
+        <b>المركز الثالث</b><br>
+        <sub>المستوى الأول | 2024 / 2025 م</sub>
       </td>
     </tr>
   </table>
@@ -46,22 +35,119 @@ A passionate **Information Technology** specialist and developer with a strong a
 
 ---
 
-### 📊 GitHub Stats | إحصائيات تقنية
+## 🛠️ المهارات التقنية
+
+### لغات البرمجة
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### قواعد البيانات
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### أدوات التطوير
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### أنظمة التشغيل
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+---
+
+## 🚀 أبرز المشاريع
+
+| المشروع | الوصف |
+|---------|-------|
+| [System Prompts & AI Tools](https://github.com/waleedshamhan2050-sys/system-prompts-and-models-of-ai-tools) | مجموعة شاملة من التعليمات الداخلية لأدوات الذكاء الاصطناعي |
+| [IT Service Management Pro](https://github.com/waleedshamhan2050-sys/it-service-management-pro) | نظام إدارة خدمات تقنية المعلومات |
+| [IT Equipment Management](https://github.com/waleedshamhan2050-sys/it-equipment-management) | نظام إدارة وتتبع المعدات التقنية |
+| [Yemen E-Commerce Platform](https://github.com/waleedshamhan2050-sys/yemen-ecommerce-platform) | منصة تجارة إلكترونية يمنية |
+
+---
+
+## 🏅 الشهادات والاعتمادات (Cisco Networking Academy)
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/c207c86a-8a04-4efb-919d-08097f05112c/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/ai-badge.png" width="150" />
+      </a><br />
+      <b>Introduction to Modern AI</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/a276334b-4064-400c-80ea-23705a97b302/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/learnathon-badge.png" width="150" />
+      </a><br />
+      <b>Learn-A-Thon 2026</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Participant-✓-blue?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/1f0bb937-1c8e-4531-b5ed-aa1fba75e6e7/public_url">
+        <img src="https://raw.githubusercontent.com/waleedshamhan2050-sys/waleedshamhan2050-sys/main/assets/it-support-badge.png" width="150" />
+      </a><br />
+      <b>IT Customer Support Basics</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 الأهداف الحالية
+
+- تطوير مهاراتي في مجال الذكاء الاصطناعي وتطبيقاته
+- إتقان تطوير الويب الكامل (Full Stack)
+- التعمق في مجال الأمن السيبراني
+- بناء مشاريع مفتوحة المصدر تفيد المجتمع
+
+---
+
+## 📫 تواصل معي
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedshamhan2050-sys&show_icons=true&theme=radical&hide_border=true" alt="Waleed's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedshamhan2050-sys&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+  <a href="https://linkedin.com/in/waleed-shamhan-b33a41301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/waleed.shamhan.37mibextid"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/u5n9.k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/waleed_Sadiq"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Programmer_sitting2026"><img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://whatsapp.com/channel/0029VbAMfFMJZg4CkoYQgO2D"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:waleed.shamhan2050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Connect with Me | تواصل معي
-- **LinkedIn:** [Waleed Shamhan](https://linkedin.com/in/waleed-shamhan-b33a41301)
-- **Telegram:** [@Waleed_shamhan](https://t.me/Waleed_shamhan)
+## 📊 إحصائيات GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedshamhan2050-sys&show_icons=true&theme=radical&locale=ar" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedshamhan2050-sys&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedshamhan2050-sys&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waleedshamhan2050-sys&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Coding is not just about syntax, it's about solving real-world problems."</i><br>
-  <b>شكراً لزيارة ملفي الشخصي! ⭐</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
