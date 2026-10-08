@@ -232,10 +232,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedshamhan2050-sys&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waleedshamhan2050-sys&theme=radical&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
