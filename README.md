@@ -14,6 +14,9 @@
     <img src="https://img.shields.io/github/stars/waleedshamhan2050-sys?label=Total%20Stars&style=social" alt="GitHub Stars" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=waleedshamhan2050-sys&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://dev.to/waleedshamhan2050sys">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=social&logo=devdotto&logoColor=white" alt="DEV Community" />
+  </a>
 </p>
 
 ---
