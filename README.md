@@ -142,6 +142,44 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 
 ---
 
+## 📜 Course Certificates | شهادات الدورات (Cisco Networking Academy)
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| C++ Essentials 1 | Cisco | 23 Oct 2026 |
+| Digital Safety and Security Awareness | Cisco | 22 Oct 2026 |
+| Operating Systems Support | Cisco | 22 Oct 2026 |
+| Introduction to Cybersecurity | Cisco | 22 Oct 2026 |
+| Creating Compelling Reports | Cisco | 22 Oct 2026 |
+| Networking Basics | Cisco | 22 Oct 2026 |
+| Introduction to Modern AI | Cisco | 14 May 2026 |
+| IT Customer Support Basics | Cisco | 10 May 2026 |
+| Networking Academy Learn-A-Thon 2026 (Award) | Cisco | 12 Mar 2026 |
+
+---
+
+## 🏅 Module Achievements | إنجازات الوحدات (Cisco Networking Academy)
+
+| Achievement | Course | Date |
+|---|---|---|
+| تنفيذ تقنيات ما بعد الاستغلال | — | 23 Oct 2026 |
+| أمان السحابة والجوال وإنترنت الأشياء | — | 23 Oct 2026 |
+| الإبلاغ والتواصل | — | 23 Oct 2026 |
+| استغلال الثغرات الأمنية المستندة إلى التطبيق | — | 23 Oct 2026 |
+| Resource Specialist | Introduction to Cybersecurity | 22 Oct 2026 |
+| System Safeguards | Introduction to Cybersecurity | 22 Oct 2026 |
+| أساسيات بروتوكولات الشبكات | — | 22 Oct 2026 |
+| أساسيات اتصالات الشبكة | — | 22 Oct 2026 |
+| أساسيات بروتوكول الإنترنت | — | 22 Oct 2026 |
+| أساسيات الوصول إلى الشبكة | — | 21 Oct 2026 |
+| أساسيات الشبكة | — | 21 Oct 2026 |
+| مقدمة في القرصنة الأخلاقية واختبار الاختراق | — | 19 May 2026 |
+| Threat Analysis | — | 19 May 2026 |
+| Cybersecurity Administration | — | 19 May 2026 |
+
+
+---
+
 ## 🛠️ Tech Stack | المهارات التقنية
 
 ### Programming Languages | لغات البرمجة
@@ -278,7 +316,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 ## 📫 Connect With Me | تواصل معي
 
 <p align="center">
-  <a href="https://linkedin.com/in/waleed-shamhan-b33a41301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/waleed-sadiq-shamhan-b33a41301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/waleed.shamhan.37mibextid"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/u5n9.k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/waleed_Sadiq"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
