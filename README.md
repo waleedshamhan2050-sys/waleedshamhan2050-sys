@@ -86,6 +86,58 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
       <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/cc1b5bd9-e9b3-40d7-9ab5-799759929e70/public_url">
+        <img src="https://images.credly.com/size/340x340/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" width="150" />
+      </a><br />
+      <b>C++ Essentials 1</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/ad331ec9-7663-4ffe-94d4-b495d096eb1f/public_url">
+        <img src="https://images.credly.com/size/340x340/images/92d90000-9c96-4dbd-a37d-8c47bf338bca/blob" width="150" />
+      </a><br />
+      <b>Digital Safety and Security Awareness</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/d729a070-25fe-46d8-9db6-309e5e6b2cb1/public_url">
+        <img src="https://images.credly.com/size/340x340/images/70cc28ef-542c-4ce2-8bad-e8d95daf5138/blob" width="150" />
+      </a><br />
+      <b>Operating Systems Support</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/813abd01-8158-4a25-b327-902a7b7c8287/public_url">
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" />
+      </a><br />
+      <b>Introduction to Cybersecurity</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/0ad266f6-c5ce-4fb2-8e56-59789d7dfe79/public_url">
+        <img src="https://images.credly.com/size/340x340/images/37b16109-9083-4b08-8eec-b9d8f4bb88a8/image.png" width="150" />
+      </a><br />
+      <b>Creating Compelling Reports</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.credly.com/badges/2592d00f-85b4-4568-afa3-602d0d38b6d8/public_url">
+        <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="150" />
+      </a><br />
+      <b>Networking Basics</b><br />
+      <sub>Cisco</sub><br />
+      <img src="https://img.shields.io/badge/Verified-✓-brightgreen?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 ---
