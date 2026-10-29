@@ -142,7 +142,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 
 ---
 
-## 📜 Course Certificates | شهادات الدورات (Cisco Networking Academy)
+## 📜 Course Certificates | شهادات الدورات (Cisco Networking Academy · Kaggle)
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -155,6 +155,8 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 | Introduction to Modern AI | Cisco | 14 May 2026 |
 | IT Customer Support Basics | Cisco | 10 May 2026 |
 | Networking Academy Learn-A-Thon 2026 (Award) | Cisco | 12 Mar 2026 |
+| [Intro to SQL](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intro-to-sql) | Kaggle | 30 Oct 2026 |
+| [Advanced SQL](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/advanced-sql) | Kaggle | 30 Oct 2026 |
 
 ---
 
