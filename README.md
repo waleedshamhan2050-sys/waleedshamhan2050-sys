@@ -158,6 +158,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 | [Intro to SQL](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intro-to-sql) | Kaggle | 30 Oct 2026 |
 | [Advanced SQL](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/advanced-sql) | Kaggle | 30 Oct 2026 |
 | [Python](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/python) | Kaggle | 30 Oct 2026 |
+| [Pandas](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/pandas) | Kaggle | 30 Oct 2026 |
 
 ---
 
