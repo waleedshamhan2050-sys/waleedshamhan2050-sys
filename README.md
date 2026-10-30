@@ -161,6 +161,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 | [Pandas](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/pandas) | Kaggle | 30 Oct 2026 |
 | [Intro to Machine Learning](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intro-to-machine-learning) | Kaggle | 30 Oct 2026 |
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intermediate-machine-learning) | Kaggle | 30 Oct 2026 |
+| [Feature Engineering](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/feature-engineering) | Kaggle | 30 Oct 2026 |
 
 ---
 
