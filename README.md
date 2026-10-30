@@ -164,6 +164,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 | [Feature Engineering](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/feature-engineering) | Kaggle | 30 Oct 2026 |
 | [Data Cleaning](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/data-cleaning) | Kaggle | 30 Oct 2026 |
 | [Data Visualization](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/data-visualization) | Kaggle | 30 Oct 2026 |
+| [Intro to Deep Learning](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intro-to-deep-learning) | Kaggle | 30 Oct 2026 |
 
 ---
 
