@@ -168,6 +168,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 | [لغة استعلام قواعد البيانات SQL](https://www.m3aarf.com/certificate/27906/لغة-استعلام-قواعد-البيانات-sql-video) | Maaref | 29 Oct 2026 |
 | [Computer Vision](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/computer-vision) | Kaggle | 30 Oct 2026
 [Time Series](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/time-series) | Kaggle | 31 Oct 2026 |
+| [Intro to AI Ethics](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intro-to-ai-ethics) | Kaggle | 1 Nov 2026 |
 
 ---
 
