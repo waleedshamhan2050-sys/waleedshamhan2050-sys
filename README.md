@@ -169,6 +169,7 @@ I'm a passionate <b>IT student</b> focused on <b>programming</b> and <b>database
 | [Computer Vision](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/computer-vision) | Kaggle | 30 Oct 2026
 [Time Series](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/time-series) | Kaggle | 31 Oct 2026 |
 | [Intro to AI Ethics](https://www.kaggle.com/learn/certification/waleedsadiqshamhan/intro-to-ai-ethics) | Kaggle | 1 Nov 2026 |
+| [Project Management as a Life Skill](https://github.com/waleedshamhan2050-sys/waleedshamhan2050-sys/blob/main/certificates/Edraak-PM100-Project-Management-for-Life.pdf) | Edraak | 21 Nov 2026 |
 
 ---
 
